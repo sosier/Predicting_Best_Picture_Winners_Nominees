@@ -56,7 +56,6 @@ coverage.xml
 data/
 turnstile_??????.txt
 .ipynb_checkpoints/
-benson/turnstile_key.*
-turnstile_key.*
 .DS_Store
 gitbook_helpers/*
+get_exchange_rates.py
