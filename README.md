@@ -9,6 +9,7 @@
  - Python  
  - BeautifulSoup  
  - Selenium  
+ - Pickle  
  - Pandas  
  - Statsmodels  
  - scikit-learn  
